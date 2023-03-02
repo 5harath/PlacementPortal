@@ -1,0 +1,23 @@
+body{
+    width: 97%;
+    font-family: sans-serif;
+}
+nav{
+    padding:15px;
+    background-color: #800020;
+    margin-top: -10px;
+    width: 100%;
+    margin-left: -10px;
+}
+nav > a:hover{
+     border-bottom: 4px solid #808080;
+     padding-bottom: 11px;
+}
+a{
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+
+}
