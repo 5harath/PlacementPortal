@@ -12,32 +12,33 @@
 ## Folder structure
 
 
-ª   .gitignore
-ª   package-lock.json
-ª   package.json
-ª   README.md
-ª   tree.txt
-ª
-ª           
+*   .gitignore
+*   package-lock.json
+*   package.json
+*   README.md
+*   tree.txt
+*
+*           
 +---public
-ª       favicon.ico
-ª       index.html
-ª       logo192.png
-ª       logo512.png
-ª       manifest.json
-ª       robots.txt
-ª       
+*       favicon.ico
+*       index.html
+*       logo192.png
+*       logo512.png
+*       manifest.json
+*       robots.txt
+*       
 +---src
-    ª   App.js
-    ª   context.js
-    ª   index.css
-    ª   index.js
-    ª   
+    *   App.js
+    *   context.js
+    *   index.css
+    *   index.js
+    *   
     +---components
-        ª   AddNote.js
-        ª   Note.js
-        ª   NoteList.js
-        ª   
+        *   AddNote.js
+        *   Note.js
+        *   NoteList.js
+        *   
         +---Loader
                 Loader.js
                 Loader.module.css
+                
