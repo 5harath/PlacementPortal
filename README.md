@@ -11,34 +11,4 @@
 
 ## Folder structure
 
-
-*   .gitignore
-*   package-lock.json
-*   package.json
-*   README.md
-*   tree.txt
-*
-*           
-+---public
-*       favicon.ico
-*       index.html
-*       logo192.png
-*       logo512.png
-*       manifest.json
-*       robots.txt
-*       
-+---src
-    *   App.js
-    *   context.js
-    *   index.css
-    *   index.js
-    *   
-    +---components
-        *   AddNote.js
-        *   Note.js
-        *   NoteList.js
-        *   
-        +---Loader
-                Loader.js
-                Loader.module.css
-                
+<img width="214" alt="image" src="https://user-images.githubusercontent.com/19461590/236160912-10bab99c-1c1a-4e15-83ba-e425e289dc3d.png">
