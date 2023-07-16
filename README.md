@@ -7,4 +7,8 @@
 * Type 'npm install' to install all the dependency (node.js should be installed on the system)
 * Type 'npm start' to deploy the app on the local machine
 * Navigate to 'localhost:8000' to open the app
-* Signup if you have not already signed up to open the app
+
+
+login
+email: shartja1@gmail.com
+password: 12345678
