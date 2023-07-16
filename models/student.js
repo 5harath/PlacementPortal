@@ -18,7 +18,6 @@ const student = new mongoose.Schema({
     },
     status:{
         type:String,
-        enum: ['placed' , 'not_placed'],
         default: 'not_placed'
     },
     DSA_FinalScore :{
